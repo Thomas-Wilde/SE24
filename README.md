@@ -3,7 +3,7 @@ Repository for the course "Software Engineering &amp; IT-PM" at the university M
 
 ## Task01 - Indexed Image
 
-In the folder `Java` you can find files for a Java program.
+In the folder `java` you can find files for a Java program.
 There are no project files provided. You could either:
 
 1. Compile the program by hand using `javac Logger.java` followed by
